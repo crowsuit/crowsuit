@@ -13,7 +13,7 @@ relative_permalinks: true
 title:            Portfolio
 tagline:          'Art Portfolio'
 description:      'H" target="_blank">Jekyll</a> hi" target="_blank">@mdo</a>.'
-url:              https://github.com/crowsuit/crowsuit
+url:              https://crowsuit.github.io
 baseurl:          /
 
 author:
@@ -26,4 +26,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/crowsuit
+  repo:           https://crowsuit.github.io
