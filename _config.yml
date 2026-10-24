@@ -10,15 +10,15 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            Portfolio
+tagline:          'Art Portfolio'
+description:      'H" target="_blank">Jekyll</a> hi" target="_blank">@mdo</a>.'
+url:              https://github.com/crowsuit/crowsuit
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Emily Mao'
+  url:            https://www.linkedin.com/in/emily-mao-57120520b/
 
 paginate:         5
 
@@ -26,4 +26,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/crowsuit
